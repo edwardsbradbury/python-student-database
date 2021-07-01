@@ -1,5 +1,3 @@
-# python-student-database
-
 A student record manager written in Python for foundation year programming coursework.
 
 The coursework brief is included but the lecturer appears to have removed the VLE (virtual learning environment) page for this assignment, so I can't access the feedback.
